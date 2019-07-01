@@ -1,3 +1,3 @@
-function add() {
-  return '1 + 80';
+function add(a, b) {
+  return '600 + 73';
 }
