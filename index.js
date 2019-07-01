@@ -24,10 +24,12 @@ divide(80, 1);
 
 function inc(n) {
   var x = 5;
+  x++;
   return x++;
 }
 
 function dec(n) {
   var y = 5;
+  y--;
   return y--;
 }
