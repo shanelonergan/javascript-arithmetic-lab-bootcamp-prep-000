@@ -23,13 +23,15 @@ function divide(a, b) {
 divide(80, 1);
 
 function inc(n) {
-  var n = 5;
   n++;
   return n++;
 }
 
+inc(5)
+
 function dec(n) {
-  var n = 5;
   n--;
   return n--;
 }
+
+dec(5)
