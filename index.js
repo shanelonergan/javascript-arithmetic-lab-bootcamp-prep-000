@@ -26,4 +26,3 @@ function inc(n) {
   var n = 5;
   return n++
 }
-  
