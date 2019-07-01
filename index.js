@@ -36,8 +36,8 @@ function dec(n) {
 
 dec(5)
 
-function makeInt(n) {
+function makeInt('n') {
   parseInt('n', 10);
 }
 
-makeInt(2.222);
+makeInt('2.222');
