@@ -1,4 +1,5 @@
-function add(a, b) {
-  return 'a + b';
+function add() {
+  return '1 + 80';
 }
-add(900, 85)
+
+
