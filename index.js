@@ -40,4 +40,4 @@ function makeInt(n) {
   parseInt('n', 10);
 }
 
-makeInt('2.222');
+makeInt(2.222);
