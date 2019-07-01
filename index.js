@@ -22,3 +22,8 @@ function divide(a, b) {
 
 divide(80, 1);
 
+function inc(n) {
+  var n = 5;
+  return n++
+}
+  
