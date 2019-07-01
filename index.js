@@ -1,3 +1,5 @@
 function add(a, b) {
-  return '600 + 73';
+  return a + b;
 }
+
+add(80, 1)
